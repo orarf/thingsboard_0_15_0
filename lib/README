@@ -21,7 +21,11 @@ For example, see a structure of the following two libraries `Foo` and `Bar`:
 |  |  |- Foo.c
 |  |  |- Foo.h
 |  |
+<<<<<<< Updated upstream
 |  |- README --> THIS FILE asdadasda fdigdofigh hdfg [sdoifghdoifg]
+=======
+|  |- README --> THIS FILE asdadasda  asdasdasfas
+>>>>>>> Stashed changes
 |
 |- platformio.ini
 |--src
